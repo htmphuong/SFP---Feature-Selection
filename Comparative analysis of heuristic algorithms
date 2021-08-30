@@ -1,0 +1,20 @@
+A systematic review of emerging feature selection optimization methods for optimal text classification: the present state and prospective opportunities
+
+Metaheuristic-based algorithm into: population search and local search
+		- Population-based search: examine a number of search space regions simultaneously and enhance them iteratively to attain the ideal solution
+				+ genetic algorithm (GA)
+				+ ant lion optimizer
+				+ firefly
+				+ bat algorithm
+				+ com- petitive swarm optimizer
+				+ whale optimization algorithm
+				+ differential evolution
+				+ crow search
+				+  Al-Betar MA, Hammouri AI, Awadallah MA, Doush IA (2020) Binary $$\beta $$ b-hill climbing optimizer with S-shape transfer function for feature selection. 
+				J Ambient Intel Hum Comput, 1–29
+		- Local search-based algorithms consider one solution (reffered to as the initial solution) at time. 
+				+ tabu search
+				+ stochastic local search method [53],
+				+ iterated local search [54]
+				+ variable neighbourhood search [55],
+				+ GRASP [56],
